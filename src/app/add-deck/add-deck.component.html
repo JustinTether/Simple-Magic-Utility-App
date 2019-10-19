@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<body>
+<div class="main-container">
+  <div class="text-center" id='deckTitle'>
+ <input type="text" id="deckName" #deckName placeholder="Deck Name here">
+    </div>
+    <div class="text-center"> <h5 class="">Card Previews</h5></div>
+    <div class="cardPreviews text-center row">
+
+      <div class="col-sm" *ngFor="let card of newDeck; let i = index">
+
+        <img src={{card.image_uris.small}} alt="">
+        <p>{{card.name}} <button class="btn btn-sm" style="color: red;" (click)="removeCard(i)">X</button></p>
+
+      </div>
+
+    </div>
+
+    <div class="lookupContainer text-center">
+      <h4>Look up a card to add to this deck</h4>
+      <input type="text" id="cardName" #cardName (keyup.enter)="searchCard(cardName.value)"> <button  id="lookupBtn" class="btn btn-primary text-center" (click)="searchCard(cardName.value)">Search</button>
+      <div *ngIf='cardLookup' style="text-align: center">
+          <h4>Price on TCGPlayer: ${{cardLookup.prices.usd}}</h4>
+          <img id="cardLookupImg" [src]="cardLookup.image_uris.normal" alt=""></div>
+
+          <div class="card-controls">
+              <button class="btn btn-success" (click)="addCardToDeck(cardLookup, cardAmount.value)">Add amount to deck</button>
+              <input type="number" #cardAmount placeholder="4"> <!-- <button class="btn btn-sm">+</button><button class="btn btn-sm">-</button> -->
+            </div>
+    </div>
+
+    <button class="btn" id="addButton" (click)="addDeck(deckName.value, index)">Save</button>
+</div>
+
+</body>

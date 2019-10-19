@@ -1,0 +1,106 @@
+<div class="main-container">
+
+
+   <!-- <nav class="navbar text-center navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">
+
+      Utilities Bar (Click for more)
+    </a>
+
+  </nav> -->
+<body>
+    <button type="button" class="btn btn-outline-primary" (click)="isCollapsed = !isCollapsed"
+    [attr.aria-expanded]="!isCollapsed" aria-controls="collapseExample">
+Toggle Utilities
+</button>
+
+    <div id="addNewContent" [ngbCollapse]="isCollapsed">
+      <div class="row">
+        <div class="col-md">
+
+
+            <div class="card-sm" id="addNewDeck">
+              <div class="card-body">
+                  <h6>Add a deck</h6>
+                <input #input (keyup.enter)="addDeck(input.value)" (keyup.enter)="input.value = ''">
+                <button id="addDeck" (click)="addDeck(input.value)" (click)="input.value = ''">Add</button>
+                </div>
+                <div class="col-md" id='cardLookup' style="margin: 20px">
+                    <input type="text" #cardSearch (keyup.enter)="searchCard(cardSearch.value)"> <button (click)="searchCard(cardSearch.value)">Search a card!</button>
+                    <div *ngIf='card' style="text-align: center">
+                       <h4>Price on TCGPlayer: ${{card.prices.usd}}</h4>
+                       <img [src]="card.image_uris.normal" alt=""></div>
+
+                </div>
+        </div>
+      </div>
+
+      <div class="col-md">
+        <div class="card-sm" id="addNewPlayer">
+          <div class="card-body">
+
+              <h6>Add a player</h6>
+            <input #player (keyup.enter)="addPlayers(player.value)" (keyup.enter)="player.value = ''">
+            <button id="addPlayer" (click)="addPlayers(player.value)" (click)="player.value = ''">Add</button>
+
+
+            <div class="col-sm" id="decks">
+                <h2>Decks</h2>
+             <ul>
+            <li #deckLi *ngFor="let deck of decks; let i = index">{{deck}} <button class="btn btn-sm" (click)="removeDeck(i)" style="color: red">X </button> </li>
+             </ul>
+            </div>
+
+
+          </div>
+            </div>
+          </div>
+
+
+      </div>
+  </div>
+
+  <!-- End collapse-able player section-->
+
+  <div class="container">
+    <div class="row">
+
+
+
+<div class="text-center" id="players">
+
+    <h2>Players</h2>
+  <div class="row justify-content-center">
+        <div class="card text-center" style="width: 18rem;" *ngFor="let player of players; let i = index; trackBy: trackBy" >
+            <h6>{{player.name}}<button class="btn btn-sm" style="color:red"(click)="removePlayer(i)">X</button></h6>
+              <div class="card-body">
+                  <div class="progress">
+                      <div class="progress-bar progress-bar-animated progress-bar-striped bg-danger" role="progressbar" [ngStyle]="{width: player.health * 5 + '%'}"  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                <h5>Health: {{player.health}}
+                  <input id="inputTest" [(ngModel)]="input[i]" #healthAmount="ngModel" type="number">
+                  <button class="btn btn-sm" (click)="raiseHealth(player, healthAmount.value, i)">Add</button>
+                  <button class="btn btn-sm"(click)="lowerHealth(player, healthAmount.value, i)" >Subtract</button>
+
+
+                </h5>
+              <h3 *ngIf='player.deck'>{{player.deck}}</h3>
+              <p class="card-text"> <button class="btn btn-outline-success" *ngIf="player.deck == ''" (click)='randomDeck(player, i)'>Random Deck</button></p>
+              <p>Kills: {{player.kills}} <button class="btn btn-sm" (click)="addKill(player, i)">+</button> Mulligans: {{player.mulligans}} <button class="btn btn-sm" (click)="addMulligan(player, i)">+</button></p>
+              <p>Dice Roll: {{this.dice[i]}} <button class="btn btn-outline-primary" (click)="rollDice(i)">Roll</button></p>
+                <!--Here's where we are going to put the health reducers and increasers-->
+            </div>
+
+          </div>
+       </div>
+  </div>
+</div>
+ </div>
+
+</body>
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</div>

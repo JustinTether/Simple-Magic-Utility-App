@@ -1,0 +1,10 @@
+#sidebar-wrapper {
+  width: 50px;
+  height: 100%;
+  color: #fff;
+  position: fixed;
+}
+
+#menu-list a {
+  color: #fff;
+}

@@ -1,0 +1,2543 @@
+{
+  "decks": [
+    {
+      "name": "Pants 6.0",
+      "index": 0,
+      "kills": 0,
+      "mulligans": 0,
+      "cards": [
+        {
+          "object": "card",
+          "id": "debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+          "multiverse_ids": [
+            470837
+          ],
+          "mtgo_id": 77704,
+          "name": "Island",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "scryfall_uri": "https://scryfall.com/card/c19/291/island?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "large": "https://img.scryfall.com/cards/large/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "png": "https://img.scryfall.com/cards/png/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.png?1568005502",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "color_identity": [
+            "U"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+          "collector_number": "291",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "607e5d2e-f2ad-4170-8061-6f154be3ec25",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.08",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470837",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Island&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Island",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Island"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Island&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Island-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77704?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+          "multiverse_ids": [
+            470837
+          ],
+          "mtgo_id": 77704,
+          "name": "Island",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "scryfall_uri": "https://scryfall.com/card/c19/291/island?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "large": "https://img.scryfall.com/cards/large/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "png": "https://img.scryfall.com/cards/png/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.png?1568005502",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "color_identity": [
+            "U"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+          "collector_number": "291",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "607e5d2e-f2ad-4170-8061-6f154be3ec25",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.08",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470837",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Island&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Island",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Island"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Island&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Island-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77704?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+          "multiverse_ids": [
+            470837
+          ],
+          "mtgo_id": 77704,
+          "name": "Island",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "scryfall_uri": "https://scryfall.com/card/c19/291/island?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "large": "https://img.scryfall.com/cards/large/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "png": "https://img.scryfall.com/cards/png/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.png?1568005502",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "color_identity": [
+            "U"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+          "collector_number": "291",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "607e5d2e-f2ad-4170-8061-6f154be3ec25",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.08",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470837",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Island&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Island",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Island"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Island&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Island-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77704?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+          "multiverse_ids": [
+            470837
+          ],
+          "mtgo_id": 77704,
+          "name": "Island",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0",
+          "scryfall_uri": "https://scryfall.com/card/c19/291/island?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "large": "https://img.scryfall.com/cards/large/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "png": "https://img.scryfall.com/cards/png/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.png?1568005502",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/e/debfbf48-bb06-4405-a97b-8249dacdffa0.jpg?1568005502"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "color_identity": [
+            "U"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/debfbf48-bb06-4405-a97b-8249dacdffa0/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+          "collector_number": "291",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "607e5d2e-f2ad-4170-8061-6f154be3ec25",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.08",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470837",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Island&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Island",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Island"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Island&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Island-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77704?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.12",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.12",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.12",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.12",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+          "multiverse_ids": [
+            470843
+          ],
+          "mtgo_id": 77716,
+          "name": "Mountain",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "scryfall_uri": "https://scryfall.com/card/c19/297/mountain?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "large": "https://img.scryfall.com/cards/large/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "png": "https://img.scryfall.com/cards/png/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.png?1569208558",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+          "collector_number": "297",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "bdbfbcb5-44d5-41f2-a846-ac8dcef21e7a",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.05",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470843",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Mountain&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Mountain",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Mountain&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Mountain-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77716?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+          "multiverse_ids": [
+            470843
+          ],
+          "mtgo_id": 77716,
+          "name": "Mountain",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "scryfall_uri": "https://scryfall.com/card/c19/297/mountain?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "large": "https://img.scryfall.com/cards/large/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "png": "https://img.scryfall.com/cards/png/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.png?1569208558",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+          "collector_number": "297",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "bdbfbcb5-44d5-41f2-a846-ac8dcef21e7a",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.05",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470843",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Mountain&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Mountain",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Mountain&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Mountain-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77716?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+          "multiverse_ids": [
+            470843
+          ],
+          "mtgo_id": 77716,
+          "name": "Mountain",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "scryfall_uri": "https://scryfall.com/card/c19/297/mountain?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "large": "https://img.scryfall.com/cards/large/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "png": "https://img.scryfall.com/cards/png/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.png?1569208558",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+          "collector_number": "297",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "bdbfbcb5-44d5-41f2-a846-ac8dcef21e7a",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.05",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470843",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Mountain&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Mountain",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Mountain&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Mountain-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77716?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+          "multiverse_ids": [
+            470843
+          ],
+          "mtgo_id": 77716,
+          "name": "Mountain",
+          "lang": "en",
+          "released_at": "2019-08-23",
+          "uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a",
+          "scryfall_uri": "https://scryfall.com/card/c19/297/mountain?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "normal": "https://img.scryfall.com/cards/normal/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "large": "https://img.scryfall.com/cards/large/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "png": "https://img.scryfall.com/cards/png/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.png?1569208558",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/d/b/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a.jpg?1569208558"
+          },
+          "mana_cost": "",
+          "cmc": 0,
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "c19",
+          "set_name": "Commander 2019",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/db6d3fb9-ecec-4a55-bfcf-6ae2d35e416a/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+          "collector_number": "297",
+          "digital": false,
+          "rarity": "common",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Alayna Danner",
+          "artist_ids": [
+            "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+          ],
+          "illustration_id": "bdbfbcb5-44d5-41f2-a846-ac8dcef21e7a",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "preview": {
+            "source": "Hipsters of the Coast",
+            "source_uri": "https://www.hipstersofthecoast.com/2019/08/commander-2019-previews-far-from-basic/",
+            "previewed_at": "2019-08-06"
+          },
+          "prices": {
+            "usd": null,
+            "usd_foil": null,
+            "eur": "0.05",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470843",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Mountain&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Mountain",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Mountain&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-2019/Mountain-Version-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/77716?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "b3656310-093d-4724-a399-7f7010843b1f",
+          "oracle_id": "95e94dea-5ac0-4d6f-adec-ca147aee861f",
+          "multiverse_ids": [
+            460931
+          ],
+          "mtgo_id": 71614,
+          "arena_id": 69455,
+          "tcgplayer_id": 187127,
+          "name": "Ajani's Pridemate",
+          "lang": "en",
+          "released_at": "2019-05-03",
+          "uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f",
+          "scryfall_uri": "https://scryfall.com/card/war/4/ajanis-pridemate?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "normal": "https://img.scryfall.com/cards/normal/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "large": "https://img.scryfall.com/cards/large/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "png": "https://img.scryfall.com/cards/png/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.png?1557575878",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/b/3/b3656310-093d-4724-a399-7f7010843b1f.jpg?1557575878"
+          },
+          "mana_cost": "{1}{W}",
+          "cmc": 2,
+          "type_line": "Creature — Cat Soldier",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",
+          "power": "2",
+          "toughness": "2",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "legal",
+            "future": "legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "legal",
+            "commander": "legal",
+            "brawl": "legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "war",
+          "set_name": "War of the Spark",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/b3656310-093d-4724-a399-7f7010843b1f/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95e94dea-5ac0-4d6f-adec-ca147aee861f&unique=prints",
+          "collector_number": "4",
+          "digital": false,
+          "rarity": "uncommon",
+          "flavor_text": "Planeswalkers conjured replicas of old allies, reminders of the homeworlds that would fall next if Bolas prevailed.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Sidharth Chaturvedi",
+          "artist_ids": [
+            "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+          ],
+          "illustration_id": "9731242a-018f-4c7b-bd58-5df3a273bc7d",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1838,
+          "preview": {
+            "source": "Wizards of the Coast",
+            "source_uri": "https://www.twitch.tv/videos/404095372",
+            "previewed_at": "2019-03-31"
+          },
+          "prices": {
+            "usd": "0.13",
+            "usd_foil": "0.85",
+            "eur": "0.09",
+            "tix": "0.01"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460931",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Ajani%27s+Pridemate&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Pridemate",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ajani%27s+Pridemate"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=187127&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/War-of-the-Spark/Ajanis-Pridemate?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/71614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "aff10db6-f9bf-4fc8-b3ef-c4c11f192f53",
+          "oracle_id": "4f2d4538-dc1d-4c09-964b-b0d7c240fb7d",
+          "multiverse_ids": [
+            438574
+          ],
+          "mtgo_id": 65895,
+          "mtgo_foil_id": 65896,
+          "tcgplayer_id": 145286,
+          "name": "Archangel of Thune",
+          "lang": "en",
+          "released_at": "2017-11-17",
+          "uri": "https://api.scryfall.com/cards/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53",
+          "scryfall_uri": "https://scryfall.com/card/ima/8/archangel-of-thune?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "normal": "https://img.scryfall.com/cards/normal/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "large": "https://img.scryfall.com/cards/large/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "png": "https://img.scryfall.com/cards/png/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.png?1562852989",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989"
+          },
+          "mana_cost": "{3}{W}{W}",
+          "cmc": 5,
+          "type_line": "Creature — Angel",
+          "oracle_text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhenever you gain life, put a +1/+1 counter on each creature you control.",
+          "power": "3",
+          "toughness": "4",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "ima",
+          "set_name": "Iconic Masters",
+          "set_type": "masters",
+          "set_uri": "https://api.scryfall.com/sets/741bcd30-7709-4133-8919-f4b46483bed7",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aima&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/ima?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f2d4538-dc1d-4c09-964b-b0d7c240fb7d&unique=prints",
+          "collector_number": "8",
+          "digital": false,
+          "rarity": "mythic",
+          "flavor_text": "Even the wicked have nightmares.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "James Ryman",
+          "artist_ids": [
+            "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+          ],
+          "illustration_id": "102e4374-16dc-4af2-a4dd-e1e4563a4ebe",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1058,
+          "prices": {
+            "usd": "13.99",
+            "usd_foil": "22.47",
+            "eur": "13.05",
+            "tix": "2.41"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438574",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Archangel+of+Thune&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Archangel+of+Thune",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Archangel+of+Thune"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145286&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Iconic-Masters/Archangel-of-Thune?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/65895?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "aff10db6-f9bf-4fc8-b3ef-c4c11f192f53",
+          "oracle_id": "4f2d4538-dc1d-4c09-964b-b0d7c240fb7d",
+          "multiverse_ids": [
+            438574
+          ],
+          "mtgo_id": 65895,
+          "mtgo_foil_id": 65896,
+          "tcgplayer_id": 145286,
+          "name": "Archangel of Thune",
+          "lang": "en",
+          "released_at": "2017-11-17",
+          "uri": "https://api.scryfall.com/cards/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53",
+          "scryfall_uri": "https://scryfall.com/card/ima/8/archangel-of-thune?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "normal": "https://img.scryfall.com/cards/normal/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "large": "https://img.scryfall.com/cards/large/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "png": "https://img.scryfall.com/cards/png/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.png?1562852989",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/a/f/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53.jpg?1562852989"
+          },
+          "mana_cost": "{3}{W}{W}",
+          "cmc": 5,
+          "type_line": "Creature — Angel",
+          "oracle_text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhenever you gain life, put a +1/+1 counter on each creature you control.",
+          "power": "3",
+          "toughness": "4",
+          "colors": [
+            "W"
+          ],
+          "color_identity": [
+            "W"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "ima",
+          "set_name": "Iconic Masters",
+          "set_type": "masters",
+          "set_uri": "https://api.scryfall.com/sets/741bcd30-7709-4133-8919-f4b46483bed7",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aima&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/ima?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/aff10db6-f9bf-4fc8-b3ef-c4c11f192f53/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f2d4538-dc1d-4c09-964b-b0d7c240fb7d&unique=prints",
+          "collector_number": "8",
+          "digital": false,
+          "rarity": "mythic",
+          "flavor_text": "Even the wicked have nightmares.",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "James Ryman",
+          "artist_ids": [
+            "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+          ],
+          "illustration_id": "102e4374-16dc-4af2-a4dd-e1e4563a4ebe",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1058,
+          "prices": {
+            "usd": "13.99",
+            "usd_foil": "22.47",
+            "eur": "13.05",
+            "tix": "2.41"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438574",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Archangel+of+Thune&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Archangel+of+Thune",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Archangel+of+Thune"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145286&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Iconic-Masters/Archangel-of-Thune?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/65895?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "116eafca-668b-4864-bb7b-9d615c93c059",
+          "oracle_id": "0ce47c8b-1e1f-463f-94f0-35ca00be89e6",
+          "multiverse_ids": [
+            446845
+          ],
+          "tcgplayer_id": 166844,
+          "name": "Inferno Titan",
+          "lang": "en",
+          "released_at": "2018-06-08",
+          "uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059",
+          "scryfall_uri": "https://scryfall.com/card/cm2/109/inferno-titan?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "normal": "https://img.scryfall.com/cards/normal/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "large": "https://img.scryfall.com/cards/large/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "png": "https://img.scryfall.com/cards/png/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.png?1562272422",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422"
+          },
+          "mana_cost": "{4}{R}{R}",
+          "cmc": 6,
+          "type_line": "Creature — Giant",
+          "oracle_text": "{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.",
+          "power": "6",
+          "toughness": "6",
+          "colors": [
+            "R"
+          ],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "cm2",
+          "set_name": "Commander Anthology Volume II",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/2ba5b1a3-40ed-422e-981d-56753004dfc6",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/cm2?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ce47c8b-1e1f-463f-94f0-35ca00be89e6&unique=prints",
+          "collector_number": "109",
+          "digital": false,
+          "rarity": "mythic",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Kev Walker",
+          "artist_ids": [
+            "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+          ],
+          "illustration_id": "ed81e55d-a686-49fe-8a85-f56112179817",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "edhrec_rank": 730,
+          "prices": {
+            "usd": "1.21",
+            "usd_foil": null,
+            "eur": "0.96",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Inferno+Titan&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Inferno+Titan",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inferno+Titan"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166844&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Anthology-II/Inferno-Titan?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inferno+Titan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "116eafca-668b-4864-bb7b-9d615c93c059",
+          "oracle_id": "0ce47c8b-1e1f-463f-94f0-35ca00be89e6",
+          "multiverse_ids": [
+            446845
+          ],
+          "tcgplayer_id": 166844,
+          "name": "Inferno Titan",
+          "lang": "en",
+          "released_at": "2018-06-08",
+          "uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059",
+          "scryfall_uri": "https://scryfall.com/card/cm2/109/inferno-titan?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "normal": "https://img.scryfall.com/cards/normal/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "large": "https://img.scryfall.com/cards/large/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "png": "https://img.scryfall.com/cards/png/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.png?1562272422",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422"
+          },
+          "mana_cost": "{4}{R}{R}",
+          "cmc": 6,
+          "type_line": "Creature — Giant",
+          "oracle_text": "{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.",
+          "power": "6",
+          "toughness": "6",
+          "colors": [
+            "R"
+          ],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "cm2",
+          "set_name": "Commander Anthology Volume II",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/2ba5b1a3-40ed-422e-981d-56753004dfc6",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/cm2?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ce47c8b-1e1f-463f-94f0-35ca00be89e6&unique=prints",
+          "collector_number": "109",
+          "digital": false,
+          "rarity": "mythic",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Kev Walker",
+          "artist_ids": [
+            "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+          ],
+          "illustration_id": "ed81e55d-a686-49fe-8a85-f56112179817",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "edhrec_rank": 730,
+          "prices": {
+            "usd": "1.21",
+            "usd_foil": null,
+            "eur": "0.96",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Inferno+Titan&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Inferno+Titan",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inferno+Titan"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166844&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Anthology-II/Inferno-Titan?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inferno+Titan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "116eafca-668b-4864-bb7b-9d615c93c059",
+          "oracle_id": "0ce47c8b-1e1f-463f-94f0-35ca00be89e6",
+          "multiverse_ids": [
+            446845
+          ],
+          "tcgplayer_id": 166844,
+          "name": "Inferno Titan",
+          "lang": "en",
+          "released_at": "2018-06-08",
+          "uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059",
+          "scryfall_uri": "https://scryfall.com/card/cm2/109/inferno-titan?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "normal": "https://img.scryfall.com/cards/normal/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "large": "https://img.scryfall.com/cards/large/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "png": "https://img.scryfall.com/cards/png/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.png?1562272422",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422"
+          },
+          "mana_cost": "{4}{R}{R}",
+          "cmc": 6,
+          "type_line": "Creature — Giant",
+          "oracle_text": "{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.",
+          "power": "6",
+          "toughness": "6",
+          "colors": [
+            "R"
+          ],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "cm2",
+          "set_name": "Commander Anthology Volume II",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/2ba5b1a3-40ed-422e-981d-56753004dfc6",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/cm2?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ce47c8b-1e1f-463f-94f0-35ca00be89e6&unique=prints",
+          "collector_number": "109",
+          "digital": false,
+          "rarity": "mythic",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Kev Walker",
+          "artist_ids": [
+            "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+          ],
+          "illustration_id": "ed81e55d-a686-49fe-8a85-f56112179817",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "edhrec_rank": 730,
+          "prices": {
+            "usd": "1.21",
+            "usd_foil": null,
+            "eur": "0.96",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Inferno+Titan&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Inferno+Titan",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inferno+Titan"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166844&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Anthology-II/Inferno-Titan?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inferno+Titan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "116eafca-668b-4864-bb7b-9d615c93c059",
+          "oracle_id": "0ce47c8b-1e1f-463f-94f0-35ca00be89e6",
+          "multiverse_ids": [
+            446845
+          ],
+          "tcgplayer_id": 166844,
+          "name": "Inferno Titan",
+          "lang": "en",
+          "released_at": "2018-06-08",
+          "uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059",
+          "scryfall_uri": "https://scryfall.com/card/cm2/109/inferno-titan?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "normal": "https://img.scryfall.com/cards/normal/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "large": "https://img.scryfall.com/cards/large/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "png": "https://img.scryfall.com/cards/png/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.png?1562272422",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/1/1/116eafca-668b-4864-bb7b-9d615c93c059.jpg?1562272422"
+          },
+          "mana_cost": "{4}{R}{R}",
+          "cmc": 6,
+          "type_line": "Creature — Giant",
+          "oracle_text": "{R}: Inferno Titan gets +1/+0 until end of turn.\nWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.",
+          "power": "6",
+          "toughness": "6",
+          "colors": [
+            "R"
+          ],
+          "color_identity": [
+            "R"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "not_legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "paper"
+          ],
+          "reserved": false,
+          "foil": false,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": true,
+          "variation": false,
+          "set": "cm2",
+          "set_name": "Commander Anthology Volume II",
+          "set_type": "commander",
+          "set_uri": "https://api.scryfall.com/sets/2ba5b1a3-40ed-422e-981d-56753004dfc6",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/cm2?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/116eafca-668b-4864-bb7b-9d615c93c059/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ce47c8b-1e1f-463f-94f0-35ca00be89e6&unique=prints",
+          "collector_number": "109",
+          "digital": false,
+          "rarity": "mythic",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Kev Walker",
+          "artist_ids": [
+            "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+          ],
+          "illustration_id": "ed81e55d-a686-49fe-8a85-f56112179817",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": false,
+          "story_spotlight": false,
+          "edhrec_rank": 730,
+          "prices": {
+            "usd": "1.21",
+            "usd_foil": null,
+            "eur": "0.96",
+            "tix": null
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446845",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Inferno+Titan&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Inferno+Titan",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inferno+Titan"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166844&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Anthology-II/Inferno-Titan?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inferno+Titan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "oracle_id": "c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb",
+          "multiverse_ids": [
+            435379
+          ],
+          "mtgo_id": 65466,
+          "mtgo_foil_id": 65467,
+          "arena_id": 66415,
+          "tcgplayer_id": 142031,
+          "name": "Hostage Taker",
+          "lang": "en",
+          "released_at": "2017-09-29",
+          "uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "scryfall_uri": "https://scryfall.com/card/xln/223/hostage-taker?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "normal": "https://img.scryfall.com/cards/normal/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "large": "https://img.scryfall.com/cards/large/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "png": "https://img.scryfall.com/cards/png/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.png?1562565924",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924"
+          },
+          "mana_cost": "{2}{U}{B}",
+          "cmc": 4,
+          "type_line": "Creature — Human Pirate",
+          "oracle_text": "When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",
+          "power": "2",
+          "toughness": "3",
+          "colors": [
+            "B",
+            "U"
+          ],
+          "color_identity": [
+            "B",
+            "U"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": false,
+          "variation": false,
+          "set": "xln",
+          "set_name": "Ixalan",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5c2d209-e3ef-4b0d-85f5-e7402dcf09eb&unique=prints",
+          "collector_number": "223",
+          "digital": false,
+          "rarity": "rare",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Wayne Reynolds",
+          "artist_ids": [
+            "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+          ],
+          "illustration_id": "c9229ae3-fe8c-4c31-952b-9ebf48342e61",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1243,
+          "prices": {
+            "usd": "2.09",
+            "usd_foil": "5.17",
+            "eur": "1.66",
+            "tix": "0.03"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Hostage+Taker&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Hostage+Taker",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hostage+Taker"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=142031&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ixalan/Hostage-Taker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/65466?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "oracle_id": "c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb",
+          "multiverse_ids": [
+            435379
+          ],
+          "mtgo_id": 65466,
+          "mtgo_foil_id": 65467,
+          "arena_id": 66415,
+          "tcgplayer_id": 142031,
+          "name": "Hostage Taker",
+          "lang": "en",
+          "released_at": "2017-09-29",
+          "uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "scryfall_uri": "https://scryfall.com/card/xln/223/hostage-taker?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "normal": "https://img.scryfall.com/cards/normal/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "large": "https://img.scryfall.com/cards/large/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "png": "https://img.scryfall.com/cards/png/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.png?1562565924",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924"
+          },
+          "mana_cost": "{2}{U}{B}",
+          "cmc": 4,
+          "type_line": "Creature — Human Pirate",
+          "oracle_text": "When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",
+          "power": "2",
+          "toughness": "3",
+          "colors": [
+            "B",
+            "U"
+          ],
+          "color_identity": [
+            "B",
+            "U"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": false,
+          "variation": false,
+          "set": "xln",
+          "set_name": "Ixalan",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5c2d209-e3ef-4b0d-85f5-e7402dcf09eb&unique=prints",
+          "collector_number": "223",
+          "digital": false,
+          "rarity": "rare",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Wayne Reynolds",
+          "artist_ids": [
+            "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+          ],
+          "illustration_id": "c9229ae3-fe8c-4c31-952b-9ebf48342e61",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1243,
+          "prices": {
+            "usd": "2.09",
+            "usd_foil": "5.17",
+            "eur": "1.66",
+            "tix": "0.03"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Hostage+Taker&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Hostage+Taker",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hostage+Taker"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=142031&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ixalan/Hostage-Taker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/65466?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        },
+        {
+          "object": "card",
+          "id": "e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "oracle_id": "c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb",
+          "multiverse_ids": [
+            435379
+          ],
+          "mtgo_id": 65466,
+          "mtgo_foil_id": 65467,
+          "arena_id": 66415,
+          "tcgplayer_id": 142031,
+          "name": "Hostage Taker",
+          "lang": "en",
+          "released_at": "2017-09-29",
+          "uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240",
+          "scryfall_uri": "https://scryfall.com/card/xln/223/hostage-taker?utm_source=api",
+          "layout": "normal",
+          "highres_image": true,
+          "image_uris": {
+            "small": "https://img.scryfall.com/cards/small/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "normal": "https://img.scryfall.com/cards/normal/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "large": "https://img.scryfall.com/cards/large/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "png": "https://img.scryfall.com/cards/png/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.png?1562565924",
+            "art_crop": "https://img.scryfall.com/cards/art_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924",
+            "border_crop": "https://img.scryfall.com/cards/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924"
+          },
+          "mana_cost": "{2}{U}{B}",
+          "cmc": 4,
+          "type_line": "Creature — Human Pirate",
+          "oracle_text": "When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",
+          "power": "2",
+          "toughness": "3",
+          "colors": [
+            "B",
+            "U"
+          ],
+          "color_identity": [
+            "B",
+            "U"
+          ],
+          "legalities": {
+            "standard": "not_legal",
+            "future": "not_legal",
+            "historic": "legal",
+            "modern": "legal",
+            "legacy": "legal",
+            "pauper": "not_legal",
+            "vintage": "legal",
+            "penny": "not_legal",
+            "commander": "legal",
+            "brawl": "not_legal",
+            "duel": "legal",
+            "oldschool": "not_legal"
+          },
+          "games": [
+            "arena",
+            "mtgo",
+            "paper"
+          ],
+          "reserved": false,
+          "foil": true,
+          "nonfoil": true,
+          "oversized": false,
+          "promo": false,
+          "reprint": false,
+          "variation": false,
+          "set": "xln",
+          "set_name": "Ixalan",
+          "set_type": "expansion",
+          "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+          "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+          "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+          "rulings_uri": "https://api.scryfall.com/cards/e8dc67a0-05d9-463e-9794-30a7e951c240/rulings",
+          "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5c2d209-e3ef-4b0d-85f5-e7402dcf09eb&unique=prints",
+          "collector_number": "223",
+          "digital": false,
+          "rarity": "rare",
+          "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+          "artist": "Wayne Reynolds",
+          "artist_ids": [
+            "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+          ],
+          "illustration_id": "c9229ae3-fe8c-4c31-952b-9ebf48342e61",
+          "border_color": "black",
+          "frame": "2015",
+          "full_art": false,
+          "textless": false,
+          "booster": true,
+          "story_spotlight": false,
+          "edhrec_rank": 1243,
+          "prices": {
+            "usd": "2.09",
+            "usd_foil": "5.17",
+            "eur": "1.66",
+            "tix": "0.03"
+          },
+          "related_uris": {
+            "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435379",
+            "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Hostage+Taker&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "edhrec": "https://edhrec.com/route/?cc=Hostage+Taker",
+            "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hostage+Taker"
+          },
+          "purchase_uris": {
+            "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=142031&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+            "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Ixalan/Hostage-Taker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+            "cardhoarder": "https://www.cardhoarder.com/cards/65466?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+          }
+        }
+      ]
+    }
+  ]
+}

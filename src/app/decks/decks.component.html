@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<div class="main-container">
+
+<body>
+  <h2 class="text-center">Your Decks</h2>
+  <div class="deck card" *ngFor="let deck of decks; let di = index; trackBy: trackBy">
+    <div class="card-body text-center">
+        <h3>{{deck.name}} <button class="btn btn-outline-warning" (click)="editDeck(di)">Edit</button> <div class="row" *ngIf="deckSelect===di">
+            <app-add-deck [newDeck]="deck.cards" [index]="di"></app-add-deck>
+         </div></h3>
+          <div *ngIf="deckSelect !== di">
+          <div class="row imgContainer overflow-auto">
+              <div class="col-sm" *ngFor="let card of deck.cards; let ci = index; trackBy: trackBy">
+
+                  <!---->   <img *ngIf="card.image_uris" id="cardImg" src={{card.image_uris.small}}>
+                      <h5>{{card.name}}</h5>
+
+                </div>
+            </div>
+          </div>
+
+
+  </div>
+
+
+
+
+
+</div>
+
+<button class="btn" routerLink="../app-add-deck" id="addButton">+</button>
+</body>
+
+
+
