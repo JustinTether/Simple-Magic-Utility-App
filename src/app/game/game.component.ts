@@ -31,8 +31,8 @@ export class GameComponent implements OnInit {
   input = [];
   card: any;
   dice = [];
-  // readonly ROOT_URL ='http://165.227.207.165:3000/api'; // For Production
-   readonly ROOT_URL ='http://localhost:3000/api'; //Uncomment for dev work
+   readonly ROOT_URL ='http://165.227.207.165:3000/api'; // For Production
+  // readonly ROOT_URL ='http://localhost:3000/api'; //Uncomment for dev work
   constructor(private http: HttpClient) { }
 
   ngOnInit() {

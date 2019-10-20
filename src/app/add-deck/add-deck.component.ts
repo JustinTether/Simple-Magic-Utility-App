@@ -15,8 +15,8 @@ export class AddDeckComponent implements OnInit {
   deckObject = {};
   cardLookup: any;
   data: any;
-  //  readonly ROOT_URL ='http://165.227.207.165:3000/api'; // For Production
-    readonly ROOT_URL ='http://localhost:3000/api'; //Uncomment for dev work
+    readonly ROOT_URL ='http://165.227.207.165:3000/api'; // For Production
+  //  readonly ROOT_URL ='http://localhost:3000/api'; //Uncomment for dev work
   constructor(private http: HttpClient, private toastr: ToastrService) { }
 
   ngOnInit() {
