@@ -12,6 +12,7 @@ export class DecksComponent implements OnInit {
   decks: any;
   deckSelect: any;
   data: any;
+
    readonly ROOT_URL ='http://165.227.207.165:3000/api'; // For Production
   // readonly ROOT_URL ='http://localhost:3000/api'; //Uncomment for dev work
 

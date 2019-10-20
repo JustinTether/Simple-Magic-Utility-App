@@ -85,7 +85,7 @@ export class AddDeckComponent implements OnInit {
          });
     });
 
-    post.then((message) => {
+    post.then((message: any) => {
 console.log('Request to the server was completed ', message, ' Another attempt ', message.status);
 switch (message.status) {
   case 400:
