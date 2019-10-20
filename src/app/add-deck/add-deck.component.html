@@ -6,16 +6,24 @@
  <input type="text" id="deckName" #deckName placeholder="Deck Name here">
     </div>
     <div class="text-center"> <h5 class="">Card Previews</h5></div>
-    <div class="cardPreviews text-center row">
 
-      <div class="col-sm" *ngFor="let card of newDeck; let i = index">
+      <div class="cardPreviews text-center row" *ngIf="editDeck !== undefined">
+      <div class="col-sm" *ngFor="let card of editDeck; let i = index">
 
         <img src={{card.image_uris.small}} alt="">
         <p>{{card.name}} <button class="btn btn-sm" style="color: red;" (click)="removeCard(i)">X</button></p>
 
       </div>
-
     </div>
+      <div class="cardPreviews text-center row" *ngIf="newDeck.length !== 0">
+        <div class="col-sm" *ngFor="let card of newDeck; let i = index">
+
+          <img src={{card.image_uris.small}} alt="">
+          <p>{{card.name}} <button class="btn btn-sm" style="color: red;" (click)="removeCard(i)">X</button></p>
+
+        </div>
+      </div>
+
 
     <div class="lookupContainer text-center">
       <h4>Look up a card to add to this deck</h4>

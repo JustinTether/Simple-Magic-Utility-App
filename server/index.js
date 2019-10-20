@@ -81,15 +81,27 @@ app.post('/api/addDeck', (req, res) => {
     data.decks[req.body.index] = req.body;
     fs.writeFileSync(path.join(__dirname, 'decks.json'), JSON.stringify(data, null, 2));
     console.log('Added a new deck!', req.body);
-    res.sendStatus(201);
-    res.send(data.decks);
+    res.status(201).send({msg: 'Addition of deck complete'});
     return;
   }
+
+
 
   data.decks.push(req.body);
   fs.writeFileSync(path.join(__dirname, 'decks.json'), JSON.stringify(data, null, 2));
   console.log('Added a new deck!', req.body);
-  res.status(201).send(data.decks);
+  res.status(201).send({status: 201, msg: 'Addition of deck complete'});
+})
+
+app.post('/api/deleteDeck', (req, res) => {
+    if (req.body.index !== undefined) {
+      data.decks.splice(req.body.index, 1);
+      res.status(200).send({"msg":'Item Successfully deleted'});
+      fs.writeFileSync(path.join(__dirname, 'decks.json'), JSON.stringify(data, null, 2));
+      return
+    }else {
+      res.status(400).send({"msg":'Something went wrong with your request'});
+    }
 })
 
 

@@ -6,8 +6,8 @@
   <h2 class="text-center">Your Decks</h2>
   <div class="deck card" *ngFor="let deck of decks; let di = index; trackBy: trackBy">
     <div class="card-body text-center">
-        <h3>{{deck.name}} <button class="btn btn-outline-warning" (click)="editDeck(di)">Edit</button> <div class="row" *ngIf="deckSelect===di">
-            <app-add-deck [newDeck]="deck.cards" [index]="di"></app-add-deck>
+        <h3>{{deck.name}} <button class="btn btn-outline-warning" (click)="editDeck(di)">Edit</button> <button class="btn btn-outline-danger" (click)="deleteDeck(di)">Delete</button> <div class="row" *ngIf="deckSelect===di">
+            <app-add-deck [editDeck]="deck.cards" [index]="di"></app-add-deck>
          </div></h3>
           <div *ngIf="deckSelect !== di">
           <div class="row imgContainer overflow-auto">

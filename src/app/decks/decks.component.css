@@ -46,3 +46,6 @@ body {
   box-shadow: 1px 1px 20px rgb(68, 109, 105);
   display: grid;
 }
+.deck button {
+  margin: 2px;
+}
